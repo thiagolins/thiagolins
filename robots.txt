@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /scriptcase
+Disallow: /trabalhos/
+Disallow: /php/
